@@ -1,5 +1,4 @@
 ### Hi there 👋
-**RoniPick/RoniPick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -  I'm a third
 year Student of CS & Math
 

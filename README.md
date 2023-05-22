@@ -10,7 +10,7 @@ year Student of CS & Math
 
 <br />
 
-🧰 Languages and Tools:
+### :hammer_and_wrench: Languages and Tools :
 <p align="center">
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>

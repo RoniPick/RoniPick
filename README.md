@@ -2,7 +2,7 @@
 -  I'm a third
 year Student of CS & Math
 
-## ✉️ Find me on:
+ ✉️ Find me on:
 <p align="center">
  <a href="https://www.linkedin.com/in/roni-pick-3b326023a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:ronipick3@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -10,7 +10,7 @@ year Student of CS & Math
 
 <br />
 
-## 🧰 Languages and Tools:
+🧰 Languages and Tools:
 <p align="center">
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
